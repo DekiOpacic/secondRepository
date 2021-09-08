@@ -1,1 +1,2 @@
 Hello, welcome to Git tutorial
+Next video is simple
