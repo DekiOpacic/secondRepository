@@ -1,2 +1,2 @@
-Hello, welcome to Git tutorial
-Next video is simple
+Hello, welcome to Git tutorial, Next video is simple
+
